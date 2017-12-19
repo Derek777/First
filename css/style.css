@@ -4,7 +4,7 @@
  * 2. Prevent iOS text size adjust after orientation change, without disabling
  *    user zoom.
  */
-@import url("https://fonts.googleapis.com/css?family=Raleway:600");
+@import url("https://fonts.googleapis.com/css?family=Raleway:600,700");
 html {
   font-family: sans-serif;
   /* 1 */
@@ -394,6 +394,12 @@ th {
   padding: 0;
 }
 
+body {
+  background-image: url("../img/bg_header.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
 .container {
   width: 100%;
   max-width: 1240px;
@@ -402,18 +408,69 @@ th {
 
 header {
   max-height: 760px;
-  background-image: url("../img/bg.png");
+  padding-top: 30px;
 }
 header nav {
   box-shadow: 0 1px 4px rgba(0, 0, 0, 0.22);
+  background: white;
+  height: 80px;
 }
-header .logo {
+header nav ul {
+  position: relative;
+  list-style-type: none;
+}
+header nav .menu-item {
+  margin-right: 35px;
+  display: inline;
+  float: right;
+}
+header nav .menu-item :hover {
+  opacity: 1;
+}
+header nav .menu-item a {
+  text-decoration: none;
+  opacity: 0.6;
+  color: #282528;
+  font-family: "OpenSans", sans-serif;
+  font-size: 13px;
+  font-weight: 700;
+  line-height: 80px;
+  text-transform: uppercase;
+}
+header nav .logo {
+  float: left;
+}
+header nav .logo a {
+  text-decoration: none;
   color: #1ab798;
   font-family: 'Raleway', sans-serif;
   font-size: 30px;
   font-weight: 600;
   line-height: 80px;
-  width: 64px;
-  height: 63px;
-  background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA/CAMAAABnwz74AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAWlBMVEX///9TW2QoJShTW2RTW2RTW2RTW2RTW2QoJSgoJSgoJSgoJSgoJSgoJSgoJSgoJSgoJSgoJSgoJSgoJSgoJSgqJypESE8oJSgxMTUrKCxJT1ZTW2QoJSj////OP39EAAAAHHRSTlMAAAAePushP0QRd6q7M4jMZt2ZVe7l8iKY/ksgUmgRFQAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAH/SURBVEjH7ZbbeoMgDIAt7TZAENBs7pD3f86l6ixyUJi7XG6a+vn/hlpCmqY0Lom4Xi7FfEpwe3o+Jbg9vZyqYOJPCGY+FLBMcB5eIX76LBQgZvjfCla+QCC4lC2ikpKLmD8S6M6gF6bTAb8vsES7fnkyVdI7ctgNvycYHML8RL8iwNe3GysQjApBChaFeP9ANR4LBsAugd/X/9khDEcCi8BZmqf6OaDcF/RoRJ6ndRjs9wTygJ8MMi+wh/xksDmBBnfIk8GBzggM6iT/5fP0HDRpgXz8wkFct1/nGyOBAMcKw4FICCQOpQJ7LyEUVBQwlxAK7PJ2CkuwkcCAKBcIMKFAYFvOM9biGAiqVjCtIRB0mT9RJjR2gUAhE7ZVqrVzG5OKYsntPZdLvtyDKhA4o6nvKUW9kEo5zo0LBOhgamRCAmhOTW0qA1Dr+TqzgFw/7nEYChD0z/KcW3PY5Otu04CxYN1JsiyPBOv/aPRysc1HLw8Ebf94Rwhe7p2Nysv7NtXSEhGdzmv8C0iwnZz+RnA9KaD585RgM3/8QpDkKwRpvlyQ4YsFOX4R8PFAkOVpB9J2HlLHblPEU+doOY19+xXc5/ecgHU0p0LqzGg2fF7AtJQj2xPQ/OKtpimPJF8vCPhqQcjXCiK+UhDzdYIEXyVI8TWCrxRfVcH1ckrwDafoMfN4xrdZAAAAAElFTkSuQmCC");
+}
+header nav .logo_img {
+  position: absolute;
+  top: 31px;
+}
+header .intro {
+  float: left;
+}
+header .intro h1 {
+  margin-top: 170px;
+  color: white;
+  font-family: "Raleway", sans-serif;
+  font-size: 42px;
+  font-weight: 700;
+  line-height: 15px;
+}
+header .intro p {
+  color: white;
+  font-family: "OpenSans", sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  line-height: 0;
+}
+header .intro li {
+  content: ">";
+  list-style-type: none;
 }

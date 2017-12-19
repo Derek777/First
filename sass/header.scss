@@ -1,18 +1,75 @@
 header{
   max-height: 760px;
-  background-image: url("../img/bg.png");
+  padding-top: 30px;
   nav{
     box-shadow: 0 1px 4px rgba(0, 0, 0, 0.22);
-  }
-  .logo{
-    color: $c_green_1;
-    font-family: 'Raleway', sans-serif;
-    font-size: 30px;
-    font-weight: 600;
-    line-height: 80px;
-    width: 64px;
-    height: 63px;
-    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAAA/CAMAAABnwz74AAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAWlBMVEX///9TW2QoJShTW2RTW2RTW2RTW2RTW2QoJSgoJSgoJSgoJSgoJSgoJSgoJSgoJSgoJSgoJSgoJSgoJSgoJSgqJypESE8oJSgxMTUrKCxJT1ZTW2QoJSj////OP39EAAAAHHRSTlMAAAAePushP0QRd6q7M4jMZt2ZVe7l8iKY/ksgUmgRFQAAAAFiS0dEAIgFHUgAAAAJcEhZcwAACxIAAAsSAdLdfvwAAAH/SURBVEjH7ZbbeoMgDIAt7TZAENBs7pD3f86l6ixyUJi7XG6a+vn/hlpCmqY0Lom4Xi7FfEpwe3o+Jbg9vZyqYOJPCGY+FLBMcB5eIX76LBQgZvjfCla+QCC4lC2ikpKLmD8S6M6gF6bTAb8vsES7fnkyVdI7ctgNvycYHML8RL8iwNe3GysQjApBChaFeP9ANR4LBsAugd/X/9khDEcCi8BZmqf6OaDcF/RoRJ6ndRjs9wTygJ8MMi+wh/xksDmBBnfIk8GBzggM6iT/5fP0HDRpgXz8wkFct1/nGyOBAMcKw4FICCQOpQJ7LyEUVBQwlxAK7PJ2CkuwkcCAKBcIMKFAYFvOM9biGAiqVjCtIRB0mT9RJjR2gUAhE7ZVqrVzG5OKYsntPZdLvtyDKhA4o6nvKUW9kEo5zo0LBOhgamRCAmhOTW0qA1Dr+TqzgFw/7nEYChD0z/KcW3PY5Otu04CxYN1JsiyPBOv/aPRysc1HLw8Ebf94Rwhe7p2Nysv7NtXSEhGdzmv8C0iwnZz+RnA9KaD585RgM3/8QpDkKwRpvlyQ4YsFOX4R8PFAkOVpB9J2HlLHblPEU+doOY19+xXc5/ecgHU0p0LqzGg2fF7AtJQj2xPQ/OKtpimPJF8vCPhqQcjXCiK+UhDzdYIEXyVI8TWCrxRfVcH1ckrwDafoMfN4xrdZAAAAAElFTkSuQmCC');
+    background: white;
+    height: 80px;
+    ul {
+      position: relative;
+      list-style-type: none;
+    }
 
+    .menu-item{
+      margin-right: 35px;
+      :hover{
+        opacity: 1;
+      }
+      a{
+        text-decoration: none;
+        opacity: 0.6;
+        color: #282528;
+        font-family: $OS;
+        font-size: 13px;
+        font-weight: 700;
+        //font-weight: bold;
+        line-height: 80px;
+        text-transform: uppercase;
+
+      }
+      display: inline;
+      float: right;
+    }
+    .logo{
+      float: left;
+    }
+
+    .logo a{
+      text-decoration: none;
+      color: $c_green_1;
+      font-family: 'Raleway', sans-serif;
+      font-size: 30px;
+      font-weight: 600;
+      line-height: 80px;
+    }
+
+    .logo_img{
+      position: absolute;
+      top: 31px;
+    }
   }
+  .intro{
+    float: left;
+    h1{
+      margin-top: 170px;
+      color: white;
+      font-family: $R;
+      font-size: 42px;
+      font-weight: 700;
+      line-height: 15px;
+    }
+    p{
+      color: white;
+      font-family: $OS;
+      font-size: 22px;
+      font-weight: 600;
+      line-height: 0;
+    }
+
+    li{
+      content: ">";
+      list-style-type: none;
+    }
+  }
+
 }
