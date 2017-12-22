@@ -1,11 +1,12 @@
-body{
-  background-image: url("../img/bg_header.jpg");
-  background-size: 100%;
-  background-repeat: no-repeat;
-}
 
 .container {
   width: 100%;
   max-width: 1240px;
+  margin: 0 auto;
+}
+
+.min_container {
+  width: 100%;
+  max-width: 1170px;
   margin: 0 auto;
 }
