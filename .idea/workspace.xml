@@ -2,286 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4d22006-b205-4dc8-b3bb-7e228b8f1d28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/fonts/Pe-icon-7-stroke.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/fonts/Pe-icon-7-stroke.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/fonts/Pe-icon-7-stroke.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/images/background-paralax.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/images/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/FontAwesome.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/add-user.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/airplay.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/alarm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/album.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/albums.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/anchor.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-down-circle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-down.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-left-circle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-left.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-right-circle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-right.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-up-circle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/angle-up.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/arc.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/attention.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/back-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/back.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/ball.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/bandaid.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/battery.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/bell.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/bicycle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/bluetooth.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/bookmarks.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/bottom-arrow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/box1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/box2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/browser.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/calculator.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/call.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/camera.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/car.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/cart.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/cash.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/chat.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/check.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/clock.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/close-circle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/close.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/cloud-download.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/cloud-upload.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/cloud.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/coffee.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/comment.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/compass.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/config.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/copy-file.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/credit.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/crop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/culture.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/cup.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/date.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/delete-user.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/diamond.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/disk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/diskette.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/display1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/display2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/door-lock.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/download.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/drawer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/drop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/edit.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/exapnd2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/expand1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/eyedropper.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/female.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/file.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/film.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/filter.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/flag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/folder.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/gift.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/glasses.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/gleam.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/global.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/graph.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/graph1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/graph2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/graph3.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/gym.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/hammer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/headphones.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/helm.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/help1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/help2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/home.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/hourglass.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/id.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/info.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/joy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/junk.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/key.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/keypad.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/leaf.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/left-arrow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/less.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/light.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/like.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/like2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/link.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/lintern.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/lock.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/look.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/loop.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/magic-wand.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/magnet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/mail-open-file.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/mail-open.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/mail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/male.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/map-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/map-marker.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/map.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/medal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/menu.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/micro.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/monitor.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/moon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/more.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/mouse.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/music.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/musiclist.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/mute.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/network.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/news-paper.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/next-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/next.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/note.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/note2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/notebook.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/paint-bucket.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/paint.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/paper-plane.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/paperclip.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/pen.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/pendrive.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/phone.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/photo-gallery.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/photo.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/piggy.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/pin.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/plane.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/play.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/plug.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/plugin.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/plus.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/portfolio.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/power.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/prev.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/print.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/radio.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/refresh-2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/refresh-cloud.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/refresh.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/repeat.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/ribbon.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/right-arrow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/rocket.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/safe.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/science.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/scissors.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/search.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/server.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/settings.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/share.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/shield.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/shopbag.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/shuffle.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/signal.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/smile.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/speaker.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/star.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/stopwatch.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/study.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/sun.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/switch.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/target.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/ticket.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/timer.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/tools.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/trash.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/umbrella.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/unlock.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/up-arrow.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/upload.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/usb.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/user-female.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/user.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/users.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/vector.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/video.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/voicemail.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/volume.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/volume1.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/volume2.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/wallet.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/way.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/wine.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/world.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/SVG/wristwatch.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/Pe-icon-7-stroke.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/docs/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/fonts/Pe-icon-7-stroke.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/libs/css/bootstrap-select.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/libs/css/bootstrap.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/libs/css/prism.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/libs/js/bootstrap-select.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/libs/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/libs/js/jquery-1.11.1.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/libs/js/jquery-1.11.1.min.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/libs/js/prism.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/refs/main.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/assets/refs/style.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/changelog-v1.2.0.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/documentation.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/icomoon/selection.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/pe-icon-7-stroke/css/helper.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/pe-icon-7-stroke/css/pe-icon-7-stroke.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/pe-icon-7-stroke/fonts/Pe-icon-7-stroke.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/read-me.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/Icon-font-7-stroke-PIXEDEN-v-1.2.0/reference.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/HELP-US-OUT.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/css/font-awesome.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/css/font-awesome.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/fonts/fontawesome-webfont.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/animated.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/bordered-pulled.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/core.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/fixed-width.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/font-awesome.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/icons.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/larger.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/list.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/mixins.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/path.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/rotated-flipped.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/screen-reader.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/stacked.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/less/variables.less" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_animated.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_bordered-pulled.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_core.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_fixed-width.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_larger.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_list.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_path.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_rotated-flipped.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_screen-reader.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_stacked.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/font-awesome-4.7.0/scss/font-awesome.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/sass/features.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/068d6766e5ced18e3750e1437cf0a14e88ff12e9/base.scssc" afterPath="$PROJECT_DIR$/.sass-cache/068d6766e5ced18e3750e1437cf0a14e88ff12e9/base.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/068d6766e5ced18e3750e1437cf0a14e88ff12e9/header.scssc" afterPath="$PROJECT_DIR$/.sass-cache/068d6766e5ced18e3750e1437cf0a14e88ff12e9/header.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.sass-cache/068d6766e5ced18e3750e1437cf0a14e88ff12e9/style.scssc" afterPath="$PROJECT_DIR$/.sass-cache/068d6766e5ced18e3750e1437cf0a14e88ff12e9/style.scssc" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css.map" afterPath="$PROJECT_DIR$/css/style.css.map" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/base.scss" afterPath="$PROJECT_DIR$/sass/base.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/header.scss" afterPath="$PROJECT_DIR$/sass/header.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/style.scss" afterPath="$PROJECT_DIR$/sass/style.scss" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/sass/variables.scss" afterPath="$PROJECT_DIR$/sass/variables.scss" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sass/features.scss" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -305,7 +26,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.scss" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.scss" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sass/style.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
@@ -315,7 +36,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="features.scss" pinned="false" current-in-tab="false">
+      <file leaf-file-name="features.scss" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sass/features.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -557,17 +278,18 @@
       <workItem from="1513014338761" duration="1995000" />
       <workItem from="1513687923061" duration="16511000" />
       <workItem from="1513791176772" duration="7108000" />
-      <workItem from="1513948035974" duration="1312000" />
+      <workItem from="1513948035974" duration="1473000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48676000" />
+    <option name="totallyTimeSpent" value="48837000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1928" height="1060" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16745655" sideWeight="0.7387173" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16745655" sideWeight="0.7387173" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt " active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24960753" sideWeight="0.26128265" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -966,18 +688,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sass/features.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/sass/style.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" column="24" lean-forward="true" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sass/features.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
