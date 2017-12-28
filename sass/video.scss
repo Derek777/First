@@ -1,0 +1,59 @@
+.video{
+  background-color: $c_blue;
+  padding: 75px 35px;
+}
+
+.watch{
+  float: left;
+  width: 42%;
+  padding-left: 35px;
+  h2{
+    color: #222;
+    font-family: $R;
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 18px;
+    text-transform: uppercase;
+  }
+  p{
+    color: white;
+    font-family: $OS;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+  }
+}
+
+.clip{
+  float: right;
+  width: 42%;
+  margin-top: 23px;
+}
+
+iframe{
+  border-radius: 7px;
+}
+
+.icon{
+  width: 68px;
+  height: 68px;
+  border-radius: 50%;
+  background-color: #0098cd;
+  display: inline-block;
+  position: relative;
+  margin-right: 15px;
+}
+
+ a:hover{
+  background-color: #222222;
+}
+
+.icons{
+  margin-top: 30px;
+}
+
+.icon img{
+  position: absolute;
+  top: 15px;
+  right: 21px;
+}
